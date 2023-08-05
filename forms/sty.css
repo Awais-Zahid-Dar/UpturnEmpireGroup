@@ -17,6 +17,7 @@
 	font-weight: 1000;
 	letter-spacing: 2px;
 	color: #fff;
+	font-family: "Raleway", sans-serif;
 }
 .deal-amount {
 	clip-path: polygon(0 0, 100% 0%, 100% 60%, 51% 100%, 0 60%);
@@ -24,6 +25,12 @@
 	padding: 25px 0;
 	color: #fff;
 }
+
+.price
+{
+ font-family: "Open Sans", sans-serif;;
+}
+
 .price .money {
 	font-size: 40px;
 	font-weight: 600;
@@ -38,8 +45,8 @@
 }
 .single-deal li {
 	font-size: 18px;
-	font-family: montserrat;
 	padding: 10px 0;
+	font-family: "Open Sans", sans-serif;
 }
 
 
