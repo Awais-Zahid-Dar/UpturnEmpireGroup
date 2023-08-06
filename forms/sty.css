@@ -50,9 +50,7 @@
 }
 
 
-.single-pricing:hover {
-	transform: scale(1.05);
-}
+
 @media (max-width: 767px) {
 	.single-pricing {
 		margin-bottom: 30px;
